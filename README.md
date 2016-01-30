@@ -1,4 +1,4 @@
-# cta_ridership_alalysis
+# cta_ridership_analysis
 Analyzing data for CTA "L" train in the City of Chicago.
 
 The code was written using Visual Studios
